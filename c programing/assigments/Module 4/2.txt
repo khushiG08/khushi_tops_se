@@ -1,0 +1,16 @@
+OOP:-
+Object-oriented programming.As the name suggests uses objects in programming. 
+Object-oriented programming aims to implement real-world entities like inheritance, hiding, polymorphism, etc. in programming. 
+The main aim of OOP is to bind together the data and the functions that operate on them so that no other part of the code can access this data except that function.
+
+List OOP Concepts:-
+
+Abstraction
+Encapsulation
+Inheritance
+Polymorphism
+
+Diffrent Between POP and OOP:-
+
+POP stands for Procedure-oriented programming and is a programming strategy that focuses on procedural abstractions rather than data.
+OOP stands for Object-oriented programming and is a programming method that focuses on data rather than the algorithm.
